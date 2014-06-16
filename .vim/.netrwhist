@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/zhaoping/work/compile/hw2/test'
+let g:netrw_dirhist_2='/home/zhaoping/work/embeded/syscall/kernel/linux-sunxi'
+let g:netrw_dirhist_3='/etc/network/interfaces.d'
+let g:netrw_dirhist_4='/home/zhaoping/work/network/lab5'
