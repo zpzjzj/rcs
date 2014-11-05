@@ -2,6 +2,7 @@ set nocompatible
 syntax on
 com Q q
 com W w
+set background=dark
 set cindent
 set autoindent
 set shiftwidth=4
@@ -25,5 +26,4 @@ map <leader>tn :tabnew<cr>
 map <leader>te :tabedit<cr>
 hi statusLine cterm=bold ctermfg=yellow ctermbg=blue
 set ruler
-colorscheme desert 
-set guifont=Ubuntu\ Mono\ 12 
+colorscheme codeschool 
